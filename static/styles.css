@@ -1,0 +1,10 @@
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: white;
+} 
+#overview{
+    margin-bottom: 20px;
+}
